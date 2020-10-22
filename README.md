@@ -1,21 +1,12 @@
-![](https://raw.githubusercontent.com/milliways-png/gruv-firefox/master/preview.png)
+![](preview.png)
 # gruv-firefox
-This is my fork of daaniieel's nord-firefox theme, I just adjusted the palette to match the gruvbox colorscheme.
-![](https://raw.githubusercontent.com/milliways-png/gruv-firefox/master/ff1.png)
-# nord-firefox
-My firefox userChrome.css theme, based on https://github.com/AnubisZ9/Global-Dark-Nordic-theme/.
+This is my fork of daaniieel's nord-firefox theme: https://github.com/daaniiieel/nord-firefox
+ I just adjusted the palette to match the gruvbox colorscheme.
+### Recommended GTK themes
+* Gruvbox Material Dark: https://github.com/sainnhe/gruvbox-material-gtk
+* Elkowar's Phocus-Phork: https://github.com/elkowar/gtk
+## Other links
+* The startpage on the preview: https://github.com/milliways-png/foxx-startpage
+* Gruvbox: https://github.com/morhetz/gruvbox
+* Gruvbox Material: https://github.com/sainnhe/gruvbox-material
 
-### Additions / Features
-* tabs are over the title bar
-* tidied the thing up
-* uses the Nord color scheme instead of Nordic-Dark
-* no issues on normal density
-* made tabs bigger
-* URL PopUp background matches everything else
-
-Thanks to the people over at reddit.com/r/FirefoxCSS!
-
-### Please use one of those themes with this or the URL bar will look odd on Firefox 75+
-* NordGTK
-* Nordic (doesn't look that nice)
-* Arc-Dark
