@@ -11,7 +11,7 @@
         --gnome-scrollbars-thumb-blend-mode: multiply;
         --gnome-scrollbars-thumb-outline: 1px solid rgba(255, 255, 255, 0.4);
         --gnome-scrollbars-thumb-hover-bgcolor: #75797a;
-        --gnome-scrollbars-thumb-active-bgcolor: #4a90d9;
+        --gnome-scrollbars-thumb-active-bgcolor: #89b482;
     }
 	@media (prefers-color-scheme: dark) {
 		:not(select):not(hbox) > scrollbar {
@@ -21,7 +21,7 @@
 		    --gnome-scrollbars-thumb-blend-mode: screen;
 		    --gnome-scrollbars-thumb-outline: 1px solid rgba(0, 0, 0, 0.4);
 		    --gnome-scrollbars-thumb-hover-bgcolor: #d4d5d4;
-		    --gnome-scrollbars-thumb-active-bgcolor: #15539e;
+		    --gnome-scrollbars-thumb-active-bgcolor: #89b482;
 		}
 	}
 

@@ -1,4 +1,7 @@
-![](https://raw.githubusercontent.com/Daaniiieel/nord-firefox/master/ff1.png)
+![](https://raw.githubusercontent.com/milliways-png/gruv-firefox/master/preview.png)
+# gruv-firefox
+This is my fork of daaniieel's nord-firefox theme, I just adjusted the palette to match the gruvbox colorscheme.
+![](https://raw.githubusercontent.com/milliways-png/gruv-firefox/master/ff1.png)
 # nord-firefox
 My firefox userChrome.css theme, based on https://github.com/AnubisZ9/Global-Dark-Nordic-theme/.
 
